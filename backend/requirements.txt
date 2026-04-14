@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic
+SQLAlchemy>=2.0
+python-multipart
+openpyxl
